@@ -1,5 +1,6 @@
 public class TestClass {
 
+    public int sum = 0;
     public int suma(int a, int b) {
         return a+b;
     }
