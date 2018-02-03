@@ -2,7 +2,7 @@ import org.junit.Test;
 
 public class TestClassUnitTest {
 
-    TestClass instance = new TestClass();
+    Calculator instance = new Calculator();
 
     @Test
     public void shouldPlus() {
