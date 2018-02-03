@@ -1,6 +1,10 @@
 public class TestClass {
 
-    public int sum(int a, int b) {
-        return a + b;
+    public int sum = 0;
+    public int suma(int a, int b) {
+        return a+b;
+    }
+    public int diff(int a, int b) {
+        return a-b;
     }
 }
